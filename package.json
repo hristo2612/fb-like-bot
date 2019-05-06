@@ -1,0 +1,32 @@
+{
+  "name": "fb-like-bot",
+  "version": "1.0.0",
+  "description": "Automatically like Facebook Posts",
+  "main": "like.js",
+  "scripts": {
+    "start": "node like"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristo2612/fb-like-bot.git"
+  },
+  "keywords": [
+    "facebook",
+    "like",
+    "bot",
+    "likes",
+    "automatically",
+    "auto"
+  ],
+  "author": "hristo2612",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hristo2612/fb-like-bot/issues"
+  },
+  "homepage": "https://github.com/hristo2612/fb-like-bot#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "nightmare": "^3.0.0",
+    "vo": "^4.0.2"
+  }
+}

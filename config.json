@@ -1,0 +1,9 @@
+{
+    "email": "",
+    "password": "",
+    "people_to_exclude": [
+        ""
+    ],
+    "timeToLike": "30000",
+    "likeOnePostPerPerson": true
+}
